@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474905304 source:c:\ВСЕ\Программирование\c programming\homework\18. fibonacci\18. fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+
+1475258001 source:c:\ВСЕ\Программирование\c programming\homework\base\18. fibonacci\18. fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+

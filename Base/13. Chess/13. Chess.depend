@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474834129 source:c:\ВСЕ\Программирование\c programming\homework\13. chess\13. chess.c
+	<stdio.h>
+	<stdlib.h>
+
+1474834212 source:c:\ВСЕ\Программирование\c programming\homework\base\13. chess\13. chess.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474874781 source:c:\ВСЕ\Программирование\c programming\homework\16. cube\16. cube.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1474874781 source:c:\ВСЕ\Программирование\c programming\homework\base\16. cube\16. cube.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

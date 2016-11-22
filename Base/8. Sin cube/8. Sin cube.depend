@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474908739 source:c:\ВСЕ\Программирование\c programming\homework\8. sin cube\8. sin cube.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

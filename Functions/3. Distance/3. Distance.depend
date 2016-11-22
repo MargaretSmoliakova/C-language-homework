@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475577657 source:c:\ВСЕ\Программирование\c programming\homework\functions\3. distance\3. distance.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
