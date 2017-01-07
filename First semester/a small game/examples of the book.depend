@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1466503812 source:c:\users\daniil\desktop\pl c\examples of the book\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1466503814 source:h:\c programming\a small game\small game.c
+	<stdlib.h>
+	<stdio.h>
+

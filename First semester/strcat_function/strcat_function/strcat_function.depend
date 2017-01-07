@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467037302 source:f:\c programming\strcat_function\strcat_function\strcat_function.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1467134400 source:h:\c programming\homework\strcat_function\strcat_function\strcat_function.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

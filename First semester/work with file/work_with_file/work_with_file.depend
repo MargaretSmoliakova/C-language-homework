@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1467107140 source:f:\c programming\work with file\work_with_file\work_with_file.c
+	<stdlib.h>
+	<stdio.h>
+
+1467135150 source:h:\c programming\homework\work with file\work_with_file\work_with_file.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1466508540 source:c:\users\daniil\desktop\pl c\functions defining\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1466595516 source:f:\c programming\functions defining\function_def.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

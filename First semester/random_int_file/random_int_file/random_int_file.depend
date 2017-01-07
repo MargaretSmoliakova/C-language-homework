@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1467132690 source:h:\c programming\random_int_file\random_int_file\random_int_file.c
+	<stdio.h>
+	<stdlib.h>
+
+1467152180 source:f:\c programming\random_int_file\random_int_file\random_int_file.c
+	<stdio.h>
+	<stdlib.h>
+

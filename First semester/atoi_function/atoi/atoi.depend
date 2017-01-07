@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1466893814 source:f:\c programming\atoi_function\atoi\atoi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1466934860 source:h:\c programming\homework\atoi_function\atoi\atoi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1467134206 source:d:\c programming\done\atoi_function\atoi\atoi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1471598546 source:c:\ВСЕ\Программирование\c programming\done\atoi_function\atoi\atoi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
